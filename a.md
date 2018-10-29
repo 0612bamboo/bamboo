@@ -1,2 +1,0 @@
-hello sjz
-hello world
